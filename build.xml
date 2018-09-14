@@ -18,8 +18,8 @@
 	<property name="sonar.binaries" value="target" />
 	<property name="sonar.sourceEncoding" value="UTF-8" />
 	<property name="sonar.java.binaries" value="${classes.dir}" />
-	<property name="sonar.svn.username" value="user1" />
-	<property name="sonar.svn.password.secured" value="user1" />
+	<property name="sonar.github.username" value="yogesht120" />
+	<property name="sonar.github.password.secured" value="Premsai@2008" />
 	
 	<path id="compile.classpath">
 		<fileset dir="WebContent/WEB-INF/lib">
